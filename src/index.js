@@ -1,2 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+// to initialize an array to store custmer data
+let custmers = [];
+export {};
